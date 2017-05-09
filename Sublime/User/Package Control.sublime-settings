@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"Anaconda",
+		"Android",
+		"AndroidImport",
+		"BracketHighlighter",
+		"C++11",
+		"Clang Format",
+		"ClangAutoComplete",
+		"CMake",
+		"CMakeEditor",
+		"CTags",
+		"Git",
+		"HexViewer",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"PlainTasks",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Sublime Tutor",
+		"SublimeLinter",
+		"SublimeLinter-contrib-clang",
+		"SublimeLinter-flake8",
+		"SublimeREPL",
+		"Sublimerge 3",
+		"Terminal"
+	]
+}
